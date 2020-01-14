@@ -13,7 +13,7 @@ lockSourceIssue: false
 mentionAuthors: true
 
 # Preserve mentions in the issue content
-keepContentMentions: false
+keepContentMentions: true
 
 # Move labels that also exist on the target repository
 moveLabels: false
